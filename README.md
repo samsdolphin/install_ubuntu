@@ -164,6 +164,8 @@ chmod +x ./QGroundControl.AppImage
 
 # clion
 
+CLion 2021要用命令行运行，CMakeLists.txt要设置`set(CMAKE_BUILD_TYPE "Debug")`才能断点debug
+
 clion装好后要装三个插件比较舒服
 
 * CodeGlance
